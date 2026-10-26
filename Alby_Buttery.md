@@ -1,5 +1,5 @@
 Alby Buttery
 
-Computer Science
+2nd year Computer Science
 
 fun fact: I prowl through dark forests screaming at passers by
